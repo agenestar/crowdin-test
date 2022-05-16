@@ -1,0 +1,8 @@
+files:
+  - source: *.pot
+    translation: %locale%/%file_name%.po
+    languages_mapping:
+      locale:
+        ja: ja
+        de: de
+
