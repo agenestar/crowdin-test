@@ -1,6 +1,6 @@
 files:
-  - source: *.pot
-    translation: %locale%/%file_name%.po
+  - source: /translations/*.pot
+    translation: /translations/%locale%/%file_name%.po
     languages_mapping:
       locale:
         ja: ja
