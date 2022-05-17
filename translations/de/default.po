@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-05-17 08:58\n"
+"PO-Revision-Date: 2022-05-17 09:02\n"
 
 msgid "Test"
 msgstr "german test"
@@ -19,5 +19,5 @@ msgid "Test 1"
 msgstr ""
 
 msgid "Test 3"
-msgstr ""
+msgstr "Test 3 aleman"
 
