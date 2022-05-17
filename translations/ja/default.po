@@ -10,11 +10,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2022-05-17 08:56\n"
+"PO-Revision-Date: 2022-05-17 09:04\n"
 
 msgid "Test"
 msgstr "Japanese test"
 
 msgid "Test 1"
 msgstr "Test 1 en japones"
+
+msgid "Test 3"
+msgstr ""
 
