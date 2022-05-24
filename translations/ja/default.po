@@ -23,5 +23,5 @@ msgid "Test 4"
 msgstr ""
 
 msgid "Test 5"
-msgstr ""
+msgstr "teeest 5"
 
