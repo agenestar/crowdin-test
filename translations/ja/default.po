@@ -4,13 +4,11 @@ msgstr ""
 "X-Crowdin-Project: feature-branches-translations\n"
 "X-Crowdin-Project-ID: 515620\n"
 "X-Crowdin-Language: ja\n"
-"X-Crowdin-File: /translate-3/translations/default.pot\n"
-"X-Crowdin-File-ID: 24\n"
+"X-Crowdin-File-ID: 6\n"
 "Project-Id-Version: feature-branches-translations\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2022-05-17 09:04\n"
 
 msgid "Test"
 msgstr "Japanese test"
@@ -19,5 +17,8 @@ msgid "Test 1"
 msgstr "Test 1 en japones"
 
 msgid "Test 3"
+msgstr ""
+
+msgid "Test 4"
 msgstr ""
 
