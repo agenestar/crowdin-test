@@ -4,13 +4,11 @@ msgstr ""
 "X-Crowdin-Project: feature-branches-translations\n"
 "X-Crowdin-Project-ID: 515620\n"
 "X-Crowdin-Language: de\n"
-"X-Crowdin-File: /main/translations/default.pot\n"
 "X-Crowdin-File-ID: 6\n"
 "Project-Id-Version: feature-branches-translations\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2022-05-18 08:52\n"
 
 msgid "Test"
 msgstr "german test"
@@ -20,4 +18,7 @@ msgstr "testttt"
 
 msgid "Test 3"
 msgstr "Test 3 aleman"
+
+msgid "Test 4"
+msgstr "Test 4 aleman"
 
