@@ -4,7 +4,7 @@ msgstr ""
 "X-Crowdin-Project: feature-branches-translations\n"
 "X-Crowdin-Project-ID: 515620\n"
 "X-Crowdin-Language: ja\n"
-"X-Crowdin-File-ID: 6\n"
+"X-Crowdin-File-ID: 36\n"
 "Project-Id-Version: feature-branches-translations\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
@@ -21,4 +21,10 @@ msgstr ""
 
 msgid "Test 4"
 msgstr ""
+
+msgid "Test 5"
+msgstr "teeest 55"
+
+msgid "Test 5b"
+msgstr "test 5bbb"
 
